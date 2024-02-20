@@ -19,9 +19,10 @@ RC Car Software for Applied AI Club
 
 ## Helpful Resources:
 
-1. GPIO, a module for the raspberry pi's pins
+1. GPIO, a module to use the raspberry pi's input/output pins
 
    - DOCS: https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
    - INSTALLATION GUIDE: https://sourceforge.net/p/raspberry-gpio-python/wiki/install/
 
-2.
+2. Thonny (IDE for Raspberry Pi. UI seems janky. Could also setup VSCode to do this):
+   - https://thonny.org/
